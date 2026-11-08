@@ -1,6 +1,6 @@
 {
   "contract_version": 1,
-  "manifest_sha256": "e610b39d370927ac8f25f7286f9d4286c3e91ac18ce6981034b6808623fa81ea",
-  "manifest_url": "https://github.com/martinsamanek/pantograf-data/releases/download/data-brno-20261101-17a85187400dcfe2/manifest.json",
-  "revision": 15
+  "manifest_sha256": "3f8c4b40f59022e92fafccb4d14cefe830276c2f47ddd0f85c25ee605c0ec5e5",
+  "manifest_url": "https://github.com/martinsamanek/pantograf-data/releases/download/data-brno-20261108-46bdbd768039c1de/manifest.json",
+  "revision": 18
 }
